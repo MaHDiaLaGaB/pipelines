@@ -11,7 +11,9 @@ os.makedirs("separated_pipelines", exist_ok=True)
 
 def sanitize_filename(name):
     """Sanitize string to be a valid filename."""
-    return re.sub(r'[\\/*?:"<>|]', "_", name).strip()
+    name = re.sub(r'[\\/*?:"<>|]', "_", name).strip()
+    name = name.replace(" ", "-")  # Replace spaces with underscores
+    return name.strip()
 
 # Iterate through each pipeline feature
 for feature in data["features"]:
