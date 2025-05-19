@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0599",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Nasser-Brega_Oil_Pipeline",
+        "PipelineName": "Nasser-Brega Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": 1961,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 38.84,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 780000,
+        "LengthKnownKm": 171.62,
+        "LengthEstimateKm": 173.54,
+        "LengthMergedKm": 171.62,
+        "Diameter": 36,
+        "DiameterUnits": "in",
+        "FuelSource": "Nasser oilfield",
+        "StartLocation": "Nasser oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Brega",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-03"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.7701,
+            28.9162
+          ],
+          [
+            19.781,
+            28.9384516
+          ],
+          [
+            19.7798,
+            28.9833
+          ],
+          [
+            19.7948,
+            29.0027
+          ],
+          [
+            19.8144,
+            29.0667
+          ],
+          [
+            19.8175,
+            29.1246
+          ],
+          [
+            19.8234,
+            29.1452
+          ],
+          [
+            19.8141,
+            29.2898
+          ],
+          [
+            19.8145,
+            29.4575
+          ],
+          [
+            19.8126,
+            29.4964
+          ],
+          [
+            19.8831,
+            29.774
+          ],
+          [
+            19.8173,
+            29.8705
+          ],
+          [
+            19.7163,
+            30.2585
+          ],
+          [
+            19.6064,
+            30.3963
+          ],
+          [
+            19.6091,
+            30.4102
+          ]
+        ]
+      }
+    }
+  ]
+}

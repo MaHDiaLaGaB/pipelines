@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0608",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Waha-Zaggut_Oil_Pipeline",
+        "PipelineName": "Waha-Zaggut Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies SE [16.33%]; Hess Corporation [8.16%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies [16.33%]; Hess Corporation [8.16%]",
+        "ParentHQCountry": "Libya; United States; France; United States",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 24.75,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 497000.01,
+        "LengthKnownKm": 42.91,
+        "LengthEstimateKm": 43.4,
+        "LengthMergedKm": 42.91,
+        "Diameter": 24,
+        "DiameterUnits": "in",
+        "FuelSource": "Waha oilfield",
+        "StartLocation": "Waha",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Zaggut oil field",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-04"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.9218,
+            28.2983
+          ],
+          [
+            19.9055,
+            28.2952
+          ],
+          [
+            19.872,
+            28.3174
+          ],
+          [
+            19.6015,
+            28.4117
+          ],
+          [
+            19.5184,
+            28.4496
+          ]
+        ]
+      }
+    }
+  ]
+}

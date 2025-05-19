@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0597",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Messla-Amal_Oil_Pipeline",
+        "PipelineName": "Messla-Amal Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 23.65,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 475000.01,
+        "LengthKnownKm": 205.55,
+        "LengthEstimateKm": 204.77,
+        "LengthMergedKm": 205.55,
+        "Diameter": 42,
+        "DiameterUnits": "in",
+        "FuelSource": "Messla oilfield",
+        "StartLocation": "Messla oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Amal oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-02-24"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3294,
+            27.9879
+          ],
+          [
+            22.3094,
+            28.0322
+          ],
+          [
+            22.2721,
+            28.082
+          ],
+          [
+            22.1603,
+            28.1912
+          ],
+          [
+            21.3668,
+            29.1439
+          ],
+          [
+            21.1056,
+            29.4846
+          ]
+        ]
+      }
+    }
+  ]
+}

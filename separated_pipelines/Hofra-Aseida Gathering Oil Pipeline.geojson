@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0594",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Hofra-Aseida_Gathering_Oil_Pipeline",
+        "PipelineName": "Hofra-Aseida Gathering Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; Suncor Energy [12.00%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; Suncor Energy [12.00%]",
+        "ParentHQCountry": "Libya; Canada",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 7.47,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 150000,
+        "LengthKnownKm": 56.87,
+        "LengthEstimateKm": 57.17,
+        "LengthMergedKm": 56.87,
+        "Diameter": 24,
+        "DiameterUnits": "in",
+        "FuelSource": "Hofra oilfield",
+        "StartLocation": "Hofra oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Sirte",
+        "StartRegion": "Africa",
+        "EndLocation": "Aseida gathering",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-02"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0084,
+            29.373
+          ],
+          [
+            18.4968,
+            29.6621
+          ]
+        ]
+      }
+    }
+  ]
+}

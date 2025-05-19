@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0607",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Waha-Samah_Oil_Pipeline",
+        "PipelineName": "Waha-Samah Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Eni S.p.A. [50.00%]; Libyan National Oil Corporation [25.51%]; TotalEnergies SE [16.33%]; Hess Corporation [8.16%]",
+        "Parent": "Eni S.p.A. [50.00%]; Libyan National Oil Corporation [25.51%]; TotalEnergies [16.33%]; Hess Corporation [8.16%]",
+        "ParentHQCountry": "Italy; Libya; France; United States",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 15.04,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 302000,
+        "LengthKnownKm": 63.86,
+        "LengthEstimateKm": "75.45999999999999",
+        "LengthMergedKm": 63.86,
+        "Diameter": 24,
+        "DiameterUnits": "in",
+        "FuelSource": "Waha oilfield",
+        "StartLocation": "Waha",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Samah oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-04"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.9218,
+            28.2983
+          ],
+          [
+            19.1682,
+            28.1633
+          ]
+        ]
+      }
+    }
+  ]
+}

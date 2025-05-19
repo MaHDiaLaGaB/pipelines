@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P6433",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "",
+        "PipelineName": "Sirte-Ras Lanuf Terminal-Sidra Terminal Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "proposed",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "",
+        "CancelledYear": "",
+        "CapacityUnits": "",
+        "CapacityBOEd": "--",
+        "LengthKnownKm": 700,
+        "LengthEstimateKm": 236.98,
+        "LengthMergedKm": 700,
+        "Diameter": "",
+        "DiameterUnits": "",
+        "FuelSource": "Sirte basin oilfields",
+        "StartLocation": "Sirte basin oilfields",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Sirte",
+        "StartRegion": "Africa",
+        "EndLocation": "",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": 2000000000,
+        "CostUnits": "USD",
+        "CostUSD": 2000000000,
+        "LastUpdated": "2024-03-08"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.577243,
+            31.189792
+          ],
+          [
+            18.582836,
+            30.488707
+          ],
+          [
+            18.323899,
+            30.639956
+          ]
+        ]
+      }
+    }
+  ]
+}

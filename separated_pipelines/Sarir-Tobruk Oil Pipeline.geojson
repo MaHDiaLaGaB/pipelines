@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0604",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Sarir-Tobruk_Oil_Pipeline",
+        "PipelineName": "Sarir-Tobruk Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": 1969,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 24.9,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 500000,
+        "LengthKnownKm": 511.87,
+        "LengthEstimateKm": 511.14,
+        "LengthMergedKm": 511.87,
+        "Diameter": 34,
+        "DiameterUnits": "in",
+        "FuelSource": "Sarir oilfield",
+        "StartLocation": "Sarir oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Tobruk",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Tobruk",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0633\u0631\u064a\u0631- \u0627\u0644\u062d\u0631\u064a\u0642\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-08"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.4986,
+            27.6468
+          ],
+          [
+            22.4713,
+            27.7642
+          ],
+          [
+            23.2675,
+            29.8693
+          ],
+          [
+            23.956,
+            31.8098
+          ],
+          [
+            23.9377,
+            31.9411
+          ],
+          [
+            23.9732,
+            32.0034
+          ],
+          [
+            23.9768,
+            32.0448
+          ]
+        ]
+      }
+    }
+  ]
+}

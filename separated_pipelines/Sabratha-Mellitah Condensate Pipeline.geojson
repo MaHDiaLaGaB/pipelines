@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P6457",
+        "Fuel": "NGL",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Sabratha-Mellitah_Condensate_Pipeline",
+        "PipelineName": "Sabratha-Mellitah Condensate Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": 2005,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "",
+        "CancelledYear": "",
+        "CapacityUnits": "",
+        "CapacityBOEd": "--",
+        "LengthKnownKm": 107,
+        "LengthEstimateKm": 21.93,
+        "LengthMergedKm": 107,
+        "Diameter": 10,
+        "DiameterUnits": "in",
+        "FuelSource": "Bahr Essalam",
+        "StartLocation": "",
+        "StartPrefecture/District": "Sabratha platform ",
+        "StartState/Province": "",
+        "StartRegion": "Africa",
+        "EndLocation": "Mellitah",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Nuqat Al-Khams",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2024-03-12"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.463719,
+            32.792894
+          ],
+          [
+            12.24166,
+            32.855794
+          ]
+        ]
+      }
+    }
+  ]
+}

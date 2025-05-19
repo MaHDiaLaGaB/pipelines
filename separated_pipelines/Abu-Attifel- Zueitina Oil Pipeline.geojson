@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P5225",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Abu-Attifel-Zueitina_Oil_Pipeline",
+        "PipelineName": "Abu-Attifel- Zueitina Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [81.00%]; OMV [19.00%]",
+        "Parent": "Libyan National Oil Corporation [81.00%]; OMV Group [19.00%]",
+        "ParentHQCountry": "Libya; Austria",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "",
+        "CancelledYear": "",
+        "CapacityUnits": "",
+        "CapacityBOEd": "--",
+        "LengthKnownKm": 212,
+        "LengthEstimateKm": 297.87,
+        "LengthMergedKm": 212,
+        "Diameter": 40,
+        "DiameterUnits": "in",
+        "FuelSource": "Abu-Attifel Oil Field",
+        "StartLocation": "",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": " Zueitina Terminal",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": " \u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628  \u0627\u0628\u0648\u0627\u0644\u0637\u0641\u0644\u2013  \u0627\u0644\u0632\u0648\u064a\u062a\u064a\u0646\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.11642,
+            28.839234
+          ],
+          [
+            20.053628,
+            30.836002
+          ]
+        ]
+      }
+    }
+  ]
+}

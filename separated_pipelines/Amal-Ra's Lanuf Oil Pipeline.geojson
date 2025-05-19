@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P3702",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Amal-Ra%27s_Lanuf_Oil_Pipeline",
+        "PipelineName": "Amal-Ra's Lanuf Oil Pipeline",
+        "SegmentName": "Pipeline 2",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [88.00%]; Suncor Energy [12.00%]",
+        "Parent": "Libyan National Oil Corporation [88.00%]; Suncor Energy [12.00%]",
+        "ParentHQCountry": "Libya; Canada",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 23.75,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 476999.99,
+        "LengthKnownKm": 272.4,
+        "LengthEstimateKm": 271.1,
+        "LengthMergedKm": 272.4,
+        "Diameter": 36,
+        "DiameterUnits": "in",
+        "FuelSource": "Amal oilfield",
+        "StartLocation": "Amal oilfield",
+        "StartPrefecture/District": "Sitre Basin",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Ra's Lanuf",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "Sirte ",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-02"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.1056,
+            29.4846
+          ],
+          [
+            21.0967,
+            29.4845
+          ],
+          [
+            19.1429,
+            30.1895
+          ],
+          [
+            18.9739,
+            30.2487
+          ],
+          [
+            18.9357,
+            30.2745
+          ],
+          [
+            18.7671,
+            30.3305
+          ],
+          [
+            18.6493,
+            30.3865
+          ],
+          [
+            18.551,
+            30.4723
+          ]
+        ]
+      }
+    }
+  ]
+}

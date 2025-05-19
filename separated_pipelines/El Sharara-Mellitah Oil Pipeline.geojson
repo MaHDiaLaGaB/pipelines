@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0589",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/El_Sharara-Mellitah_Oil_Pipeline",
+        "PipelineName": "El Sharara-Mellitah Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Eni S.p.A. [50.00%]; Libyan National Oil Corporation [50.00%]",
+        "Parent": "Eni S.p.A. [50.00%]; Libyan National Oil Corporation [50.00%]",
+        "ParentHQCountry": "Italy; Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "9.960000000000001",
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 199999.99,
+        "LengthKnownKm": 723,
+        "LengthEstimateKm": 740.58,
+        "LengthMergedKm": 723,
+        "Diameter": 30,
+        "DiameterUnits": "in",
+        "FuelSource": "El Sharara oilfield",
+        "StartLocation": "El Sharara oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Murzuq Basin",
+        "StartRegion": "Africa",
+        "EndLocation": "Mellitah Complex",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Nuqat al Khams",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0634\u0631\u0627\u0631\u0629- \u0645\u0644\u064a\u062a\u0647",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-02-25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3636,
+            26.5946
+          ],
+          [
+            13.056,
+            27.448
+          ],
+          [
+            12.6403,
+            28.3521
+          ],
+          [
+            12.9687,
+            29.5081
+          ],
+          [
+            12.5722,
+            30.2985
+          ],
+          [
+            12.2966,
+            31.4311
+          ],
+          [
+            12.3124,
+            32.0081
+          ],
+          [
+            12.3194,
+            32.1006
+          ],
+          [
+            12.185,
+            32.7129
+          ],
+          [
+            12.2361,
+            32.8518
+          ]
+        ]
+      }
+    }
+  ]
+}

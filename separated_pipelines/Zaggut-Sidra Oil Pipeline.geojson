@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0610",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Zaggut-Sidra_Oil_Pipeline",
+        "PipelineName": "Zaggut-Sidra Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [50.00%]; ConocoPhillips [16.33%]; TotalEnergies SE [16.33%]; Hess Corporation [8.16%]",
+        "Parent": "Libyan National Oil Corporation [50.00%]; ConocoPhillips [16.33%]; TotalEnergies [16.33%]; Hess Corporation [8.16%]",
+        "ParentHQCountry": "Libya; United States; France; United States",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 10.95,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 220000.01,
+        "LengthKnownKm": 266.41,
+        "LengthEstimateKm": 275.48,
+        "LengthMergedKm": 266.41,
+        "Diameter": 24,
+        "DiameterUnits": "in",
+        "FuelSource": "",
+        "StartLocation": "Zaggut oil field",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Sidra",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0627\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0632\u0642\u0648\u0637 - \u0627\u0644\u0633\u062f\u0631\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-08"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5184,
+            28.4496
+          ],
+          [
+            18.8978,
+            29.5158
+          ],
+          [
+            18.775,
+            29.773
+          ],
+          [
+            18.5013,
+            30.2558
+          ],
+          [
+            18.3129,
+            30.5629
+          ],
+          [
+            18.2875,
+            30.6076
+          ],
+          [
+            18.332,
+            30.628
+          ],
+          [
+            18.3594,
+            30.6358
+          ],
+          [
+            18.3644,
+            30.6352
+          ]
+        ]
+      }
+    }
+  ]
+}

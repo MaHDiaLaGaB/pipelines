@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0603",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Samah-Dahra_Oil_Pipeline",
+        "PipelineName": "Samah-Dahra Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies SE [16.33%]; Hess Corporation [8.16%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies [16.33%]; Hess Corporation [8.16%]",
+        "ParentHQCountry": "Libya; United States; France; United States",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 31.62,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 635000.01,
+        "LengthKnownKm": 183.59,
+        "LengthEstimateKm": 190.61,
+        "LengthMergedKm": 183.59,
+        "Diameter": 32,
+        "DiameterUnits": "in",
+        "FuelSource": "Samah oilfield",
+        "StartLocation": "Samah oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Dahra oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-03"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.1682,
+            28.1633
+          ],
+          [
+            18.6121,
+            28.8848
+          ],
+          [
+            18.169,
+            29.2333
+          ],
+          [
+            17.9656,
+            29.4476
+          ],
+          [
+            17.9304,
+            29.4782
+          ],
+          [
+            17.9304,
+            29.4805
+          ]
+        ]
+      }
+    }
+  ]
+}

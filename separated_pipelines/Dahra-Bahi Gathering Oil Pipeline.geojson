@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0586",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Dahra-Bahi_Gathering_Oil_Pipeline",
+        "PipelineName": "Dahra-Bahi Gathering Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies SE [16.33%]; Hess Corporation [8.16%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; ConocoPhillips [16.33%]; TotalEnergies [16.33%]; Hess Corporation [8.16%]",
+        "ParentHQCountry": "Libya; United States; France; United States",
+        "StartYear1": 1976,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 34.21,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 686999.99,
+        "LengthKnownKm": "68.84999999999999",
+        "LengthEstimateKm": 68.75,
+        "LengthMergedKm": "68.84999999999999",
+        "Diameter": 30,
+        "DiameterUnits": "in",
+        "FuelSource": "Dahra oilfield",
+        "StartLocation": "Dahra oilfield",
+        "StartPrefecture/District": "Sirte ",
+        "StartState/Province": "Sirte",
+        "StartRegion": "Africa",
+        "EndLocation": "Bahi gathering",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "sirte",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-07"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9324,
+            29.4808
+          ],
+          [
+            17.9297,
+            29.5113
+          ],
+          [
+            17.8451,
+            29.9199
+          ],
+          [
+            17.8669,
+            29.9827
+          ],
+          [
+            17.8747,
+            30.0913
+          ]
+        ]
+      }
+    }
+  ]
+}

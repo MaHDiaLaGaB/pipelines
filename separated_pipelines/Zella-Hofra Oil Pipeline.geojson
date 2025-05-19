@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0611",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Zella-Hofra_Oil_Pipeline",
+        "PipelineName": "Zella-Hofra Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; Occidental Petroleum [14.25%]; OMV [4.75%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; Occidental Petroleum [14.25%]; OMV Group [4.75%]",
+        "ParentHQCountry": "Libya; United States; Austria",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 3.73,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 75000,
+        "LengthKnownKm": 112.75,
+        "LengthEstimateKm": 113.33,
+        "LengthMergedKm": 112.75,
+        "Diameter": 20,
+        "DiameterUnits": "in",
+        "FuelSource": "",
+        "StartLocation": "Zella oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Jufra",
+        "StartRegion": "Africa",
+        "EndLocation": "Hofra oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-04"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.3302,
+            28.5751
+          ],
+          [
+            17.4943,
+            28.7723
+          ],
+          [
+            17.6079,
+            28.8764
+          ],
+          [
+            17.6149,
+            28.8955
+          ],
+          [
+            17.6068,
+            28.9228
+          ],
+          [
+            17.7809,
+            29.1036
+          ],
+          [
+            17.8676,
+            29.1721
+          ],
+          [
+            17.8816,
+            29.2292
+          ],
+          [
+            17.954,
+            29.3145
+          ],
+          [
+            18.008,
+            29.3525
+          ],
+          [
+            18.0084,
+            29.373
+          ]
+        ]
+      }
+    }
+  ]
+}

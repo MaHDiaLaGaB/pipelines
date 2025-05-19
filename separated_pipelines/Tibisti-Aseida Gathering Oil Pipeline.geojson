@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0605",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Tibisti-Aseida_Gathering_Oil_Pipeline",
+        "PipelineName": "Tibisti-Aseida Gathering Oil Pipeline\n",
+        "SegmentName": "",
+        "OtherEnglishNames": "Ora-Beda Gathering-Aseida Gathering oil pipeline",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [81.00%]; Suncor Energy [12.00%]",
+        "Parent": "Libyan National Oil Corporation [81.00%]; Suncor Energy [12.00%]",
+        "ParentHQCountry": "Libya; Canada",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 7.47,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 150000,
+        "LengthKnownKm": 135.7,
+        "LengthEstimateKm": 146.55,
+        "LengthMergedKm": 135.7,
+        "Diameter": 24,
+        "DiameterUnits": "in",
+        "FuelSource": "Tibisti oilfield",
+        "StartLocation": "Tibisti oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Aseida gathering",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0633\u0631\u062a\u064a\u0643\u0627",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2024-03-11"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.3177,
+            28.6019
+          ],
+          [
+            19.2047,
+            28.6271
+          ],
+          [
+            19.1817,
+            28.6512
+          ],
+          [
+            19.1666,
+            28.6504
+          ],
+          [
+            18.8077,
+            29.1606
+          ],
+          [
+            18.7007,
+            29.2939
+          ],
+          [
+            18.6528,
+            29.3835
+          ],
+          [
+            18.6298,
+            29.412
+          ],
+          [
+            18.5847,
+            29.5293
+          ],
+          [
+            18.5223,
+            29.6128
+          ],
+          [
+            18.4968,
+            29.6621
+          ]
+        ]
+      }
+    }
+  ]
+}

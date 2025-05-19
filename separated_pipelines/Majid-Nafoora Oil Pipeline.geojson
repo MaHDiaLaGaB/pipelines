@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0596",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Majid-Nafoora_Oil_Pipeline",
+        "PipelineName": "Majid-Nafoora Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 2.79,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 56000,
+        "LengthKnownKm": 104.77,
+        "LengthEstimateKm": 102.95,
+        "LengthMergedKm": 104.77,
+        "Diameter": 14,
+        "DiameterUnits": "in",
+        "FuelSource": "Majid oilfield",
+        "StartLocation": "Majid oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Nafoora oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0627\u0646\u0627\u0628\u064a\u0628 \u0645\u0627\u062c\u062f- \u0627\u0644\u0646\u0627\u0641\u0648\u0631\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-09"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.9436,
+            28.3751
+          ],
+          [
+            21.6218,
+            29.0878
+          ],
+          [
+            21.5825,
+            29.204
+          ],
+          [
+            21.5519,
+            29.2344
+          ]
+        ]
+      }
+    }
+  ]
+}

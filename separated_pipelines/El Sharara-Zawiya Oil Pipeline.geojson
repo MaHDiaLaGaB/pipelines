@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0590",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/El_Sharara-Zawiya_Oil_Pipeline",
+        "PipelineName": "El Sharara-Zawiya Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [88.00%]; Equinor [unknown %]; OMV [unknown %]; Repsol [unknown %]; TotalEnergies SE [unknown %]",
+        "Parent": "Libyan National Oil Corporation [88.00%]; Equinor [unknown %]; OMV Group [unknown %]; Repsol [unknown %]; TotalEnergies [unknown %]",
+        "ParentHQCountry": "Libya; Norway; Austria; Spain; France",
+        "StartYear1": 1998,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "9.960000000000001",
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 199999.99,
+        "LengthKnownKm": 725.4,
+        "LengthEstimateKm": 739.67,
+        "LengthMergedKm": 725.4,
+        "Diameter": 30,
+        "DiameterUnits": "in",
+        "FuelSource": "El Sharara oil field",
+        "StartLocation": "El Sharara oilfield",
+        "StartPrefecture/District": "Murzuq Desert in southwest Libya ",
+        "StartState/Province": "Wadi al-Hayaa",
+        "StartRegion": "Africa",
+        "EndLocation": "Zawiya",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Zawiya",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0634\u0631\u0627\u0631\u0629- \u0627\u0644\u0632\u0627\u0648\u064a\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-08"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3636,
+            26.5946
+          ],
+          [
+            13.056,
+            27.448
+          ],
+          [
+            12.6403,
+            28.3521
+          ],
+          [
+            12.9687,
+            29.5081
+          ],
+          [
+            12.5722,
+            30.2985
+          ],
+          [
+            12.2966,
+            31.4311
+          ],
+          [
+            12.3124,
+            32.0081
+          ],
+          [
+            12.3501,
+            32.1424
+          ],
+          [
+            12.6559,
+            32.6171
+          ],
+          [
+            12.6973,
+            32.7873
+          ]
+        ]
+      }
+    }
+  ]
+}

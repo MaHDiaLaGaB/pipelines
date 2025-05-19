@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P5218",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Nafoora%E2%80%93Ra%27s_Lanuf_Oil_Pipeline",
+        "PipelineName": "Nafoora\u2013Ra's Lanuf Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "",
+        "CancelledYear": "",
+        "CapacityUnits": "",
+        "CapacityBOEd": "--",
+        "LengthKnownKm": "--",
+        "LengthEstimateKm": 329.33,
+        "LengthMergedKm": 329.33,
+        "Diameter": 32,
+        "DiameterUnits": "in",
+        "FuelSource": "Nafoora Oil Field",
+        "StartLocation": "",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Ra's Lanuf",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "Sirte",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": " \u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628  \u0627\u0644\u0646\u0627\u0641\u0648\u0631\u0629\u2013  \u0631\u0623\u0633 \u0644\u0627\u0646\u0648\u0641",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.64998,
+            29.217669
+          ],
+          [
+            18.569985,
+            30.490205
+          ]
+        ]
+      }
+    }
+  ]
+}

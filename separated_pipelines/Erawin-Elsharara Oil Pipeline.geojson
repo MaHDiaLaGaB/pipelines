@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P3718",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Erawin-El_Sharara_Oil_Pipeline",
+        "PipelineName": "Erawin-Elsharara Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "construction",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": 2024,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "100,000.00",
+        "CancelledYear": "",
+        "CapacityUnits": "bpd",
+        "CapacityBOEd": 100000,
+        "LengthKnownKm": 100,
+        "LengthEstimateKm": 136.18,
+        "LengthMergedKm": 100,
+        "Diameter": "",
+        "DiameterUnits": "",
+        "FuelSource": "Erawin oilfield",
+        "StartLocation": "Erawin oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Murzuq Basin",
+        "StartRegion": "Africa",
+        "EndLocation": "Elsharara oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Murzuq Basin",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0625\u064a\u0631\u0627\u0648\u0646- \u0627\u0644\u0634\u0631\u0627\u0631\u0629 ",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2024-03-07"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.090879,
+            25.902469
+          ],
+          [
+            12.230024,
+            26.577321
+          ]
+        ]
+      }
+    }
+  ]
+}

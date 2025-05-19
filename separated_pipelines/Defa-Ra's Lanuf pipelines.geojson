@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P6441",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "",
+        "PipelineName": "Defa-Ra's Lanuf pipelines",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "",
+        "CancelledYear": "",
+        "CapacityUnits": "",
+        "CapacityBOEd": "--",
+        "LengthKnownKm": 251,
+        "LengthEstimateKm": 306.5,
+        "LengthMergedKm": 251,
+        "Diameter": "14,24,30",
+        "DiameterUnits": "in",
+        "FuelSource": "Defa Oil Field",
+        "StartLocation": "",
+        "StartPrefecture/District": "Al Wahat",
+        "StartState/Province": "",
+        "StartRegion": "Africa",
+        "EndLocation": "",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "Ra's Lanuf ",
+        "EndState/Province": "Gulf of Sidra",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2024-03-11"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.906177,
+            27.989783
+          ],
+          [
+            18.54257,
+            30.483081
+          ]
+        ]
+      }
+    }
+  ]
+}

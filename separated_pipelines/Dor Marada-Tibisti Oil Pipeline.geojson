@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0587",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Dor_Marada-Tibisti_Oil_Pipeline",
+        "PipelineName": "Dor Marada-Tibisti Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "Lehib-Ora Oil Pipeline",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [88.00%]; Suncor Energy [12.00%]",
+        "Parent": "Libyan National Oil Corporation [88.00%]; Suncor Energy [12.00%]",
+        "ParentHQCountry": "Libya; Canada",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "4,000.00",
+        "CancelledYear": "",
+        "CapacityUnits": "bpd",
+        "CapacityBOEd": 4000,
+        "LengthKnownKm": "81.81999999999999",
+        "LengthEstimateKm": "82.51000000000001",
+        "LengthMergedKm": "81.81999999999999",
+        "Diameter": 10,
+        "DiameterUnits": "in",
+        "FuelSource": "Dor Marada field",
+        "StartLocation": "Dor Marada oilfield",
+        "StartPrefecture/District": "Sirte",
+        "StartState/Province": "",
+        "StartRegion": "Africa",
+        "EndLocation": "Tibisti oilfield",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": " \u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628  \u062f\u0648\u0631 \u0645\u0631\u0627\u062f\u0627\u0647 \u2013 \u062a\u064a\u0628\u0633\u062a\u064a",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2024-03-11"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.6975,
+            29.2338
+          ],
+          [
+            19.674,
+            29.2103
+          ],
+          [
+            19.6561,
+            29.2105
+          ],
+          [
+            19.6535,
+            29.164
+          ],
+          [
+            19.6251,
+            29.1164
+          ],
+          [
+            19.5431,
+            29.0308
+          ],
+          [
+            19.4771,
+            28.9454
+          ],
+          [
+            19.4044,
+            28.8571
+          ],
+          [
+            19.3547,
+            28.8016
+          ],
+          [
+            19.3177,
+            28.6019
+          ]
+        ]
+      }
+    }
+  ]
+}

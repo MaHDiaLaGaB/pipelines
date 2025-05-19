@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0595",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Intisar-Zuwetina_Oil_Pipeline",
+        "PipelineName": "Intisar-Zueitina Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [59.18%]; OMV [19.00%]",
+        "Parent": "Libyan National Oil Corporation [59.18%]; OMV Group [19.00%]",
+        "ParentHQCountry": "Libya; Austria",
+        "StartYear1": 1968,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 49.8,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 1000000.01,
+        "LengthKnownKm": 219.51,
+        "LengthEstimateKm": 210.48,
+        "LengthMergedKm": 219.51,
+        "Diameter": 40,
+        "DiameterUnits": "in",
+        "FuelSource": "Intisar oilfield",
+        "StartLocation": "Intisar oilfield",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Al Wahat",
+        "StartRegion": "Africa",
+        "EndLocation": "Zueitina",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Al Wahat",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2022-03-02"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.7795,
+            29.0433
+          ],
+          [
+            20.2281,
+            30.5316
+          ],
+          [
+            20.1705,
+            30.6402
+          ],
+          [
+            20.0484,
+            30.8278
+          ]
+        ]
+      }
+    }
+  ]
+}

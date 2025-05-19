@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0584",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Aseida_Gathering-Ra%27s_Lanuf_Oil_Pipeline",
+        "PipelineName": "Aseida Gathering-Ra's Lanuf Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Suncor Energy [12.00%]; Libyan National Oil Corporation [unknown %]",
+        "Parent": "Suncor Energy [12.00%]; Libyan National Oil Corporation [unknown %]",
+        "ParentHQCountry": "Canada; Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": 12.45,
+        "CancelledYear": "",
+        "CapacityUnits": "mtpa",
+        "CapacityBOEd": 249999.99,
+        "LengthKnownKm": 87.81,
+        "LengthEstimateKm": 95.09,
+        "LengthMergedKm": 87.81,
+        "Diameter": 30,
+        "DiameterUnits": "in",
+        "FuelSource": "",
+        "StartLocation": "Aseida gathering",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Sirte",
+        "StartRegion": "Africa",
+        "EndLocation": "Ra's Lanuf terminal",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sirte",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-07"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.4968,
+            29.6621
+          ],
+          [
+            18.4984,
+            29.6947
+          ],
+          [
+            18.5058,
+            29.7506
+          ],
+          [
+            18.506,
+            29.8059
+          ],
+          [
+            18.5031,
+            29.8237
+          ],
+          [
+            18.4997,
+            30.455
+          ],
+          [
+            18.5444,
+            30.5064
+          ]
+        ]
+      }
+    }
+  ]
+}

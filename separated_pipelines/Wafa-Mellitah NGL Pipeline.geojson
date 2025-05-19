@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P5215",
+        "Fuel": "NGL",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Wafa-Mellitah_NGL_Pipeline",
+        "PipelineName": "Wafa-Mellitah NGL Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": 2004,
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "22,503.00",
+        "CancelledYear": "",
+        "CapacityUnits": "bpd",
+        "CapacityBOEd": 22503,
+        "LengthKnownKm": "--",
+        "LengthEstimateKm": 487.98,
+        "LengthMergedKm": 487.98,
+        "Diameter": 16,
+        "DiameterUnits": "in",
+        "FuelSource": "Wafa oilfield",
+        "StartLocation": " Wadi Al-Shatii ",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Nalut",
+        "StartRegion": "Africa",
+        "EndLocation": "Mellitah Complex",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Sibratha",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": " \u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0648\u0641\u0627\u0621\u064e \u2013 \u0645\u0644\u064a\u062a\u0647  \u0644\u0644\u063a\u0627\u0632 \u0627\u0644\u0645\u0633\u0627\u0644 ",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-08"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.030287,
+            28.887696
+          ],
+          [
+            12.241871,
+            32.854692
+          ]
+        ]
+      }
+    }
+  ]
+}

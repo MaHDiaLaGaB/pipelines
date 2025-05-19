@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectID": "P0593",
+        "Fuel": "Oil",
+        "StartCountry": "Libya",
+        "EndCountry": "Libya",
+        "Countries": "Libya",
+        "Wiki": "https://www.gem.wiki/Hamada_al_Hamra-Zawiya_Oil_Pipeline",
+        "PipelineName": "Hamada al Hamra-Zawiya Oil Pipeline",
+        "SegmentName": "",
+        "OtherEnglishNames": "",
+        "Status": "operating",
+        "Owner": "Libyan National Oil Corporation [100.00%]",
+        "Parent": "Libyan National Oil Corporation [100.00%]",
+        "ParentHQCountry": "Libya",
+        "StartYear1": "",
+        "StartYear2": "",
+        "StartYear3": "",
+        "StopYear": "",
+        "ShelvedYear": "",
+        "Capacity": "800,000.00",
+        "CancelledYear": "",
+        "CapacityUnits": "bpd",
+        "CapacityBOEd": 800000,
+        "LengthKnownKm": 386.15,
+        "LengthEstimateKm": 382.49,
+        "LengthMergedKm": 386.15,
+        "Diameter": 18,
+        "DiameterUnits": "in",
+        "FuelSource": " Hamada al Hamra oilfield",
+        "StartLocation": "Hamada al Hamra",
+        "StartPrefecture/District": "",
+        "StartState/Province": "Jabal al-Gharbi",
+        "StartRegion": "Africa",
+        "EndLocation": "Zawiya terminal",
+        "StartSubRegion": "Northern Africa",
+        "EndPrefecture/District": "",
+        "EndState/Province": "Zawiya",
+        "EndRegion": "Africa",
+        "FIDStatus": "",
+        "EndSubRegion": "Northern Africa",
+        "FIDYear": "",
+        "OtherLanguagePrimaryPipelineName": "\u062e\u0637 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u062d\u0645\u0627\u062f\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621 - \u0627\u0644\u0632\u0627\u0648\u064a\u0629",
+        "OtherLanguageSegmentName": "",
+        "Cost": "",
+        "CostUnits": "",
+        "CostUSD": "--",
+        "LastUpdated": "2023-02-07"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9687,
+            29.5081
+          ],
+          [
+            12.5722,
+            30.2985
+          ],
+          [
+            12.2966,
+            31.4311
+          ],
+          [
+            12.3124,
+            32.0081
+          ],
+          [
+            12.3501,
+            32.1424
+          ],
+          [
+            12.6559,
+            32.6171
+          ],
+          [
+            12.6973,
+            32.7873
+          ]
+        ]
+      }
+    }
+  ]
+}
